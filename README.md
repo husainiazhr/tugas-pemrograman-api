@@ -6,7 +6,7 @@
 | Nama Lengkap | Mohammad Husaini Azhar |
 | Asal Kampus | Universitas Islam Balitar |
 | Kelas | Teknik Informatika 5B |
-| Mata Kuliah | Grafika Komputer |
+| Mata Kuliah | Pemrograman API |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 
